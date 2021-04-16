@@ -75,4 +75,4 @@ JSON         7 mins          ░░░░░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="tusharkawsar" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tusharkawsar&show_icons=true&theme=gotham" alt="tusharkawsar" />
