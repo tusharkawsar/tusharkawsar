@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<img width="1425" alt="Screen Shot 2021-04-16 at 10 05 08 AM" src="https://user-images.githubusercontent.com/15521750/115037719-c4df7e00-9e9c-11eb-890a-bdd732e21255.png">
-
-
 <!--
 **tusharkawsar/tusharkawsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img width="1425" alt="Screen Shot 2021-04-16 at 10 05 08 AM" src="https://user-images.githubusercontent.com/15521750/115037719-c4df7e00-9e9c-11eb-890a-bdd732e21255.png">
 
 Here are some ideas to get you started:
 
