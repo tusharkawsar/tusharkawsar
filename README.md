@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 source: https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md
 -->
 
-<a href="https://www.linkedin.com/in/tusharkawsar/">
-  <img align="left" alt="Tushar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=tusharkawsar.tusharkawsar)
 
 <br />
@@ -34,8 +30,8 @@ Hi, I'm [Tushar Kawsar](https://www.linkedin.com/in/tusharkawsar/), a passionate
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Email](mailto:tushar.kawsar@gmail.com);
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharkawsar/), [Email](mailto:tushar.kawsar@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/16_MoGK-FbLXy303knIbl-gB7Ea_EYJNq/view?usp=sharing)
 
 **Languages and Tools:**  
