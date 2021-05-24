@@ -47,21 +47,4 @@ Hi, I'm [Tushar Kawsar](https://www.linkedin.com/in/tusharkawsar/), a passionate
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   15 hrs 4 mins   ████████████████░░░░░░░░░   63.55 % 
-Angular          5 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.19 % 
-Python         2 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Ruby        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-```
-<!--END_SECTION:waka-->
-
-
-
-
-📈 My GitHub Stats
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tusharkawsar&show_icons=true&theme=gotham" alt="tusharkawsar" />
