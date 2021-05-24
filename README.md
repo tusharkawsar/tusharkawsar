@@ -25,7 +25,7 @@ source: https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md
 
 <br />
 
-Hi, I'm [Tushar Kawsar](https://www.linkedin.com/in/tusharkawsar/), a passionate Full Stack web developer based in Toronto. 
+Hi, I'm [Tushar Kawsar](https://www.linkedin.com/in/tusharkawsar/), a passionate Full Stack software engineer based in East Coast. 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
