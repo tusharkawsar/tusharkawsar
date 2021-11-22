@@ -28,7 +28,7 @@ source: https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md
 Hi, I'm [Tushar Kawsar](https://www.linkedin.com/in/tusharkawsar/), a passionate Full Stack software engineer located in East Coast. 
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
   
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharkawsar/), [Email](mailto:tushar.kawsar@gmail.com)
@@ -47,4 +47,4 @@ Hi, I'm [Tushar Kawsar](https://www.linkedin.com/in/tusharkawsar/), a passionate
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tusharkawsar&show_icons=true&theme=gotham" alt="tusharkawsar" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tusharkawsar&show_icons=true&theme=gotham" alt="tusharkawsar" /> -->
