@@ -23,8 +23,6 @@ source: https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tusharkawsar.tusharkawsar)
 
-<br />
-
 Hi, I'm [Tushar Kawsar](https://www.linkedin.com/in/tusharkawsar/), a passionate Full Stack software engineer located in East Coast. 
 
 
