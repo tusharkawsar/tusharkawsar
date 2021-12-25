@@ -43,6 +43,8 @@ Hi, I'm [Tushar Kawsar](https://www.linkedin.com/in/tusharkawsar/), a passionate
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/15521750/115271491-6966f780-a10b-11eb-879c-d73e804a8630.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tusharkawsar&show_icons=true&theme=gotham" alt="tusharkawsar" /> -->
+**Books I'm Reading**
+1. [A Philosophy of Software Design](https://www.amazon.ca/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
+2. [Effectice TypeScript](https://effectivetypescript.com/)
+
